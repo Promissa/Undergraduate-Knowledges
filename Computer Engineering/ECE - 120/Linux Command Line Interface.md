@@ -1,5 +1,3 @@
-# Lab 01
-## Linux Command Line Interface
 - `echo <inputMessage>` - Simply takes its arguments and echoes them to the terminal
 - `pwd` - Print the working directory
 - `ls <path>` - List [[path]] contents 
