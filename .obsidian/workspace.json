@@ -27,16 +27,50 @@
             "id": "91a4b78e69d25648",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Computer Engineering/ECE - 120/ECE120 Notes for Students.pdf"
+              }
+            }
+          },
+          {
+            "id": "53a38d1f194e2256",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Engineering/ECE - 120/Git Tutorial.md",
+                "file": "Computer Engineering/ECE - 120/Week 01/Linux Command Line Interface.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32375806f442974f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Engineering/ECE - 120/Week 01/Git Tutorial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d7f5165bf06746f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retoric/RHET - 101/Assignment 01/Week 01/Week01.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -102,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Engineering/ECE - 120/Git Tutorial.md",
+                "file": "Retoric/RHET - 101/Assignment 01/Week 01/Week01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Engineering/ECE - 120/Git Tutorial.md",
+                "file": "Retoric/RHET - 101/Assignment 01/Week 01/Week01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Engineering/ECE - 120/Git Tutorial.md"
+                "file": "Retoric/RHET - 101/Assignment 01/Week 01/Week01.md"
               }
             }
           },
@@ -182,17 +216,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "91a4b78e69d25648",
+  "active": "1d7f5165bf06746f",
   "lastOpenFiles": [
-    "Computer Engineering/ECE - 120/Linux Command Line Interface.md",
-    "_attachments/field.md",
-    "Mathemetics/MATH - 241/Week 01/The field of real number.md",
-    "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
+    "Retoric/RHET - 101/Assignment 01/Week 01/Writing.md",
+    "Retoric/RHET - 101/Assignment 01/Week 01/Week01.md",
+    "Computer Engineering/ECE - 120/Week 01/Linux Command Line Interface.md",
     "Mathemetics/MATH - 231/Typical Problems.md",
-    "Computer Engineering/ECE - 110/ECE110 - LEBE.md",
-    "2023 Spring/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
-    "2023 Spring/ECE - 120/Week 01.md",
-    "2023 Spring/MATH - 241/Week 01/The field of real number.md",
-    "_Attachments/field.md"
+    "Computer Engineering/ECE - 120/Week 03.md",
+    "Computer Engineering/ECE - 120/Week 01/Git Tutorial.md",
+    "Computer Engineering/ECE - 120/ECE120 Notes for Students.pdf",
+    "Computer Engineering/ECE - 120/Introduction to Computing Systems From Bits Gates to C Beyond.pdf",
+    "_attachments/field.md",
+    "Mathemetics/MATH - 241/Week 01/The field of real number.md"
   ]
 }

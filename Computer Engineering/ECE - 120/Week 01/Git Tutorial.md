@@ -32,6 +32,10 @@ git push -u origin master
 ## Push
 ```Shell
 git add -A
+git status
+# Make sure all files are on your working branch
 git commit -m "whatever you want"
-git 
+git status
+# Make sure your working branch is now clean
+git push
 ```
