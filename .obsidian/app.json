@@ -1,0 +1,9 @@
+{
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "_Attachments",
+  "autoPairMarkdown": true,
+  "promptDelete": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileFolderPath": "_Attachments"
+}

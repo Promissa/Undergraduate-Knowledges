@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "eecbb150d71d0d3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffb69afc79b04812",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b19b0915cb847547",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023 Spring/MATH - 241/Week 01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e222159f2989d01",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4c557a1bf03be659",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ca89c5a99bcb808c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f424b28cb96e4692",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "dfe7d17b99d51a00",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "6ea1ad5b4565c10f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "493ed3dc625135bb",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "2023 Spring/MATH - 241/Week 01.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "db6f6c9a49abf341",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "2023 Spring/MATH - 241/Week 01.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f4a8df6da5f50463",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "2023 Spring/MATH - 241/Week 01.md"
+          }
+        }
+      },
+      {
+        "id": "f9c47daba0ce97b5",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "b19b0915cb847547",
+  "lastOpenFiles": []
+}
