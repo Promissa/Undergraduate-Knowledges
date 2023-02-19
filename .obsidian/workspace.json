@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retoric/RHET - 101/Assignment 01/Week 01/Week01.md",
+                "file": "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retoric/RHET - 101/Assignment 01/Week 01/Week01.md",
+                "file": "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retoric/RHET - 101/Assignment 01/Week 01/Week01.md",
+                "file": "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retoric/RHET - 101/Assignment 01/Week 01/Week01.md"
+                "file": "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md"
               }
             }
           },
@@ -218,15 +218,15 @@
   },
   "active": "1d7f5165bf06746f",
   "lastOpenFiles": [
-    "Retoric/RHET - 101/Assignment 01/Week 01/Writing.md",
-    "Retoric/RHET - 101/Assignment 01/Week 01/Week01.md",
-    "Computer Engineering/ECE - 120/Week 01/Linux Command Line Interface.md",
+    "Mathemetics/MATH - 241/Week 01/The field of real number.md",
+    "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
     "Mathemetics/MATH - 231/Typical Problems.md",
-    "Computer Engineering/ECE - 120/Week 03.md",
+    "Retoric/RHET - 101/Assignment 01/Week 02/CR - 2.md",
     "Computer Engineering/ECE - 120/Week 01/Git Tutorial.md",
-    "Computer Engineering/ECE - 120/ECE120 Notes for Students.pdf",
-    "Computer Engineering/ECE - 120/Introduction to Computing Systems From Bits Gates to C Beyond.pdf",
-    "_attachments/field.md",
-    "Mathemetics/MATH - 241/Week 01/The field of real number.md"
+    "Computer Engineering/ECE - 120/Week 01/Linux Command Line Interface.md",
+    "Retoric/RHET - 101/Assignment 01/Week 01/Week01.md",
+    "Retoric/RHET - 101/Assignment 01/Week 01/Writing.md",
+    "Computer Engineering/ECE - 120/Week 03.md",
+    "Computer Engineering/ECE - 120/ECE120 Notes for Students.pdf"
   ]
 }
