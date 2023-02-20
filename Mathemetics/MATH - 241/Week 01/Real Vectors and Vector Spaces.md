@@ -11,13 +11,19 @@ For  $\textbf u = (u_1,u_2,\cdots,u_n), \space \textbf v=(v_1,v_2,\cdots,v_n) \i
 For $\textbf v = (v_1,v_2,\cdots,v_n)\in\mathbb{R}^n$ and $c\in\mathbb{R}$ we define $c\textbf v\in\mathbb{R}^n$ by $$c\textbf v = (c v_1, c v_2, \cdots, c v_n)$$
 ## The Dot Product
 ### Definition
-If $\textbf a = <a_1, a_2, \cdots, a_n},\space \textbf b = <b_1, b_2,\cdots, b_n}\in\mathbb{R}^n $
+If $\textbf a = <a_1, a_2, \cdots, a_n>,\space \textbf b = <b_1, b_2,\cdots, b_n>,\space \textbf a,\textbf b\in\mathbb{R}^n$, then the **dot product** is given by $$
+\textbf a \cdot \textbf b=a_1b_1+a_2b_2+\cdots+a_nb_n=\Sigma_{i=1}^{n}a_ib_i
+$$
 ### Projection
 #### Scarlar projection of $\textbf b$ onto $\textbf a$ 
-$$comp_a{\textbf b} = \frac{\textbf a \cdot \textbf b}{|\textbf a|}$$
+$$comp_{\textbf{a}}{\textbf b} = \frac{\textbf a \cdot \textbf b}{|\textbf a|}$$
 #### Vector projection of $\textbf b$ onto $\textbf a$
 $$
-proj_a{\textbf b} = \frac{\textbf a \cdot \textbf b}{|\textbf a|^2}\textbf a
+proj_{\textbf{a}}{b} = \frac{\textbf a \cdot \textbf b}{|\textbf a|^2}\textbf a
+$$
+#### Orthogonal Projection of $\textbf b$ onto $\textbf a$
+$$
+orth_{\textbf a}{\textbf b} = \textbf b - proj_{\textbf{a}}{b}
 $$
 ### Inequalities
 #### Cauchy-Schwartz Inequality
@@ -28,3 +34,4 @@ $$
 $$
 |\textbf a + \textbf b| \leq |\textbf a|+|\textbf b|
 $$
+## Definition of the Cross Product
