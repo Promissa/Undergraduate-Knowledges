@@ -8,69 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc268709fac89d45",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e249876aab7b3848",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "91a4b78e69d25648",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Computer Engineering/ECE - 120/ECE120 Notes for Students.pdf"
-              }
-            }
-          },
-          {
-            "id": "53a38d1f194e2256",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Engineering/ECE - 120/Week 01/Linux Command Line Interface.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32375806f442974f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Engineering/ECE - 120/Week 01/Git Tutorial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1d7f5165bf06746f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retoric/RHET - 102/Critical Response 1.md",
+                "file": "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retoric/RHET - 102/Critical Response 1.md",
+                "file": "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retoric/RHET - 102/Critical Response 1.md",
+                "file": "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retoric/RHET - 102/Critical Response 1.md"
+                "file": "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md"
               }
             }
           },
@@ -218,15 +167,15 @@
   },
   "active": "1d7f5165bf06746f",
   "lastOpenFiles": [
-    "Retoric/RHET - 102/Notes/Week 01.md",
-    "Retoric/RHET - 102/Critical Response 1.md",
+    "Computer Engineering/ECE - 120/ECE120 Notes for Students.pdf",
     "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
     "Mathemetics/MATH - 241/Week 01/The field of real number.md",
+    "Retoric/RHET - 102/Critical Response 1.md",
+    "Retoric/RHET - 102/Notes/Week 01.md",
     "Mathemetics/MATH - 231/Typical Problems.md",
     "Retoric/RHET - 101/Assignment 01/Week 02/CR - 2.md",
     "Computer Engineering/ECE - 120/Week 01/Git Tutorial.md",
     "Computer Engineering/ECE - 120/Week 01/Linux Command Line Interface.md",
-    "Retoric/RHET - 101/Assignment 01/Week 01/Week01.md",
-    "Retoric/RHET - 101/Assignment 01/Week 01/Writing.md"
+    "Retoric/RHET - 101/Assignment 01/Week 01/Week01.md"
   ]
 }

@@ -9,3 +9,10 @@ $$\textbf v = (2,-1,5) =\bigg (\begin{aligned}2\\-1\\5\end{aligned} \space\space
 For  $\textbf u = (u_1,u_2,\cdots,u_n), \space \textbf v=(v_1,v_2,\cdots,v_n) \in \mathbb{R}^n$, we define $\textbf{u}+\textbf{v}\in\mathbb{R}^n$ by$$\textbf{u}+\textbf{v}=(u_1+v_1,u_2+v_2,\cdots,u_n+v_n)$$
 ## Scalar Multiplication
 For $\textbf v = (v_1,v_2,\cdots,v_n)\in\mathbb{R}^n$ and $c\in\mathbb{R}$ we define $c\textbf v\in\mathbb{R}^n$ by $$c\textbf v = (c v_1, c v_2, \cdots, c v_n)$$
+## Projection
+#### Scarlar projection of $\textbf b$ onto $\textbf a$ 
+$$comp_a{\textbf b} = \frac{\textbf a \cdot \textbf b}{|\textbf a|}$$
+#### Vector projection of $\textbf b$ onto $\textbf a$
+$$
+proj_a{\textbf b} = \frac{\textbf a \cdot \textbf b}{|\textbf a|}
+$$
