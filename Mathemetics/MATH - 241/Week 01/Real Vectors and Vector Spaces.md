@@ -9,10 +9,22 @@ $$\textbf v = (2,-1,5) =\bigg (\begin{aligned}2\\-1\\5\end{aligned} \space\space
 For  $\textbf u = (u_1,u_2,\cdots,u_n), \space \textbf v=(v_1,v_2,\cdots,v_n) \in \mathbb{R}^n$, we define $\textbf{u}+\textbf{v}\in\mathbb{R}^n$ by$$\textbf{u}+\textbf{v}=(u_1+v_1,u_2+v_2,\cdots,u_n+v_n)$$
 ## Scalar Multiplication
 For $\textbf v = (v_1,v_2,\cdots,v_n)\in\mathbb{R}^n$ and $c\in\mathbb{R}$ we define $c\textbf v\in\mathbb{R}^n$ by $$c\textbf v = (c v_1, c v_2, \cdots, c v_n)$$
-## Projection
+## The Dot Product
+### Definition
+If $\textbf a = <a_1, a_2, \cdots, a_n},\space \textbf b = <b_1, b_2,\cdots, b_n}\in\mathbb{R}^n $
+### Projection
 #### Scarlar projection of $\textbf b$ onto $\textbf a$ 
 $$comp_a{\textbf b} = \frac{\textbf a \cdot \textbf b}{|\textbf a|}$$
 #### Vector projection of $\textbf b$ onto $\textbf a$
 $$
-proj_a{\textbf b} = \frac{\textbf a \cdot \textbf b}{|\textbf a|}
+proj_a{\textbf b} = \frac{\textbf a \cdot \textbf b}{|\textbf a|^2}\textbf a
+$$
+### Inequalities
+#### Cauchy-Schwartz Inequality
+$$
+|\textbf a \cdot \textbf b| \leq |\textbf a||\textbf b|
+$$
+#### Triangle Inequality
+$$
+|\textbf a + \textbf b| \leq |\textbf a|+|\textbf b|
 $$
