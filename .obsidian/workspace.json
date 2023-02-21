@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
+                "file": "Retoric/RHET - 102/Notes/Week 01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
+                "file": "Retoric/RHET - 102/Notes/Week 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
+                "file": "Retoric/RHET - 102/Notes/Week 01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md"
+                "file": "Retoric/RHET - 102/Notes/Week 01.md"
               }
             }
           },
@@ -165,10 +165,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1d7f5165bf06746f",
+  "active": "a6d4ec449e1809d2",
   "lastOpenFiles": [
-    "Computer Engineering/ECE - 120/ECE120 Notes for Students.pdf",
     "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
+    "Computer Engineering/ECE - 120/ECE120 Notes for Students.pdf",
     "Mathemetics/MATH - 241/Week 01/The field of real number.md",
     "Retoric/RHET - 102/Critical Response 1.md",
     "Retoric/RHET - 102/Notes/Week 01.md",
