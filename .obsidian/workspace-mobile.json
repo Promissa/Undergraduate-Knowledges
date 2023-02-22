@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Pre - 1.md",
+            "file": "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Pre - 1.md",
+            "file": "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Pre - 1.md"
+            "file": "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md"
           }
         }
       },
@@ -142,9 +141,9 @@
     ],
     "currentTab": 0
   },
-  "active": "ad9663368a543576",
+  "active": "b19b0915cb847547",
   "lastOpenFiles": [
-    "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
-    "Pre - 1.md"
+    "Pre - 1.md",
+    "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md"
   ]
 }
