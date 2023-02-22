@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023 Spring/MATH - 241/Week 01.md",
+                "file": "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad9663368a543576",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pre - 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2023 Spring/MATH - 241/Week 01.md",
+            "file": "Pre - 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2023 Spring/MATH - 241/Week 01.md",
+            "file": "Pre - 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2023 Spring/MATH - 241/Week 01.md"
+            "file": "Pre - 1.md"
           }
         }
       },
@@ -129,6 +142,9 @@
     ],
     "currentTab": 0
   },
-  "active": "b19b0915cb847547",
-  "lastOpenFiles": []
+  "active": "ad9663368a543576",
+  "lastOpenFiles": [
+    "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
+    "Pre - 1.md"
+  ]
 }

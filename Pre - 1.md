@@ -1,0 +1,26 @@
+I think Miguel Nicolelis, the speaker of the longest video: A monkey that controls a robot with its thoughts did the best job. One reason is that his topic is really interesting and meaningful. But what attract me most was his long story of researching. Also, he added jokes into his presentation, which kept my interest.
+## Features
+- Body Language (eye-contact, gestures)
+- Multimedia Methods
+	- Sildes
+	- Pictures
+	- Videos
+	- Demonstration
+- Standard English
+	- Pronunciation
+	- Accent Control
+- Smooth Speed, Plan Pauses
+- Clear Structure
+	- Divided into parts with clear points
+- Accuracy
+	- True, correct info
+	- Credibility
+- Unique Style
+	- Impress the audience
+	- Make yourself outstanding
+- Emphasize your main points
+	- Reasonable Pause
+	- Tone of voice
+	- Speed
+- Strong Ending
+- 
