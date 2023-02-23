@@ -36,5 +36,7 @@ $r_3=10 (10^2 a-10 a_1-a_2)-a_3=10^3 a-10^2 a_1-10 a_2-a_3$ and
 $r_k=10^k a - \sum_{i=1}^{k}10^{k-i}a_i$
 Hence we have$$
 \frac{r_k}{10^k}=a-\frac{a_1}{10}-\frac{a_2}{10^2}-\cdots-\frac{a_k}{10^k}=a-\sum_{i=1}^k \frac{a_i}{10^i}
-$$ Since $0\le r_k < 1$, this shows $a=\sum_{k=1}^{\infty}a_k 10^{-k}$
-
+$$Since $0\le r_k < 1$, this shows $a=\sum_{k=1}^{\infty}a_k 10^{-k}$
+Moreover, assume $a=\sum_{i=1}^{\infty}a_i=\sum_{i=1}^{\infty}b_i$ and $n$ is the smallest index with $a_n \ne b_n$, we have $$
+0=a-a=\sum_{k=0}^{\infty}(b_k-a_k)10^{-k}=\sum_{k=n}^{\infty}(b_k-a_k)10^{-k}
+$$
