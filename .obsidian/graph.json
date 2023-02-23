@@ -41,23 +41,9 @@
         "a": 1,
         "rgb": 5431473
       }
-    },
-    {
-      "query": "path:\"Retoric\"",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
-      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
