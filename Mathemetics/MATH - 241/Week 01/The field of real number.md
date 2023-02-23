@@ -5,6 +5,12 @@ In particular, there must exist two distinguished elements $0, 1 \in F$ satisfyi
 ## A Hierarchy of Number Systems
 $$\mathbb N = \{{1,2,3,\cdots} \}$$
 $$
-	\mathbb Z  = \{ \cdots,-2,-1,9\}
+	\mathbb Z  = \{ \cdots,-2,-1,\space0,\space1,\space2,\space3,\cdots\}
 $$
 
+$$
+\mathbb Q = \{ c \in \mathbb R; \space c=\frac{p}{q}\space for \space some \space p\in\mathbb Z,\space q\in\mathbb N\}
+$$
+$$
+\mathbb A = \{ c \in \mathbb R;\space \sum_{i=0}^{r}a_ic^i=0\space for \space some \space a_i \in \mathbb Z \space \wedge \space \prod a_i \ne0\}
+$$
