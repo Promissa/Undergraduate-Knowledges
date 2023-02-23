@@ -14,3 +14,13 @@ $$
 $$
 \mathbb A = \{ c \in \mathbb R;\space \sum_{i=0}^{r}a_ic^i=0\space for \space some \space a_i \in \mathbb Z \space \wedge \space \prod a_i \ne0\}
 $$
+$$
+\mathbb R
+$$
+$$
+\mathbb C = \{a+bi;\space a,b\in \mathbb R\}
+$$
+The chain of inclusions:
+$$
+\mathbb N \subset \mathbb Z \subset \mathbb Q \subset \mathbb A \subset \mathbb R \subset \mathbb C
+$$
