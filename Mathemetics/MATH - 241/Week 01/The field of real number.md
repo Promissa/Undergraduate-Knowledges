@@ -39,4 +39,7 @@ Hence we have$$
 $$Since $0\le r_k < 1$, this shows $a=\sum_{k=1}^{\infty}a_k 10^{-k}$
 Moreover, assume $a=\sum_{i=1}^{\infty}a_i=\sum_{i=1}^{\infty}b_i$ and $n$ is the smallest index with $a_n \ne b_n$, we have $$
 0=a-a=\sum_{k=0}^{\infty}(b_k-a_k)10^{-k}=\sum_{k=n}^{\infty}(b_k-a_k)10^{-k}
-$$
+$$ Now $|b_n-a_n|\ge 1$ and $|a_k-b_k| \le 9$ for $k\ge n+1$. This gives$$
+1\le \left|\sum_{k=n+1}^{\infty}(a_k-b_k)10^{n-k}\right| \le \sum_{k=n+1}^{\infty}|(a_k-b_k)|10^{n-k}\le \sum_{k=n+1}^{\infty}9\cdot10^{n-k} = \frac{9}{10}\frac{1}{1-1/10}=1
+$$Hence equality should hold everywhere.
+In particular, $|a_k-b_k|=9$ for $k \ge n+1$. This leaves the two possibilities $(a_k, b_k)=(0,9) or (9,0).$
