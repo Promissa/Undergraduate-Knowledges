@@ -29,4 +29,7 @@ $$
 Every real number $a\in (0,1]$ has a unique non-terminating decimal expansion $$ a=\sum_{k=1}^{\infty}a_k 10^{-k} $$with $a_k \in \{0,1,\cdots, 9\}$ for all $k$ and $a_k\ne 0$ for infinitely many $k$ 
 For $a$ that $10^k a \in\mathbb Z \wedge 10^{k-1} a \notin \mathbb Z$, the non-terminating expansion is $0. a_1 a_2 \cdots a_{k-1}(a_k-1) 999\cdots$
 ### Proof.
-Assume w.l.o.g. $a\ne 1$ and define a sequence of digits $a_0, a_1, a_2,\cdots \in\{0,1,\cdots, 9\}$ and a sequence of "remainders" $r_0, r_1, r_2,\cdots \in [0,1)$ recursively by $r_0 = a \wedge 10 r_{k-1}=a_k+r_k$ 
+Assume w.l.o.g. $a\ne 1$ and define a sequence of digits $a_0, a_1, a_2,\cdots \in\{0,1,\cdots, 9\}$ and a sequence of "remainders" $r_0, r_1, r_2,\cdots \in [0,1)$ recursively by $r_0 = a \space \wedge\space 10 r_{k-1}=a_k+r_k$ for $k\ge 1$. By induction we have $10 r_{k-1} \in [0,10)$, so that $a_k$ and $r_k$ are well-defined.
+$r_1 = 10 a-a_1$
+$r_2=10 (10 a-a_1)-a_2=10^2 a-10 a_1-a_2$
+$r_3=10 (10^2 a-10 a_1-)
