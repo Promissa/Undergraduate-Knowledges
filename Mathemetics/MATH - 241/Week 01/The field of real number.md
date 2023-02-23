@@ -24,3 +24,7 @@ The chain of inclusions:
 $$
 \mathbb N \subset \mathbb Z \subset \mathbb Q \subset \mathbb A \subset \mathbb R \subset \mathbb C
 $$
+## Decimal Expansion
+### Lemma
+Every real number $a\in (0,1]$ has a unique non-terminating decimal expansion $$ a=\sum_{k=1}^{\inf}a_k 10^{-k} $$
+for infinitely many $k$ ; cf. subsequent lemma. 
