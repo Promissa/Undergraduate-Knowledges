@@ -42,4 +42,5 @@ Moreover, assume $a=\sum_{i=1}^{\infty}a_i=\sum_{i=1}^{\infty}b_i$ and $n$ is th
 $$ Now $|b_n-a_n|\ge 1$ and $|a_k-b_k| \le 9$ for $k\ge n+1$. This gives$$
 1\le \left|\sum_{k=n+1}^{\infty}(a_k-b_k)10^{n-k}\right| \le \sum_{k=n+1}^{\infty}|(a_k-b_k)|10^{n-k}\le \sum_{k=n+1}^{\infty}9\cdot10^{n-k} = \frac{9}{10}\frac{1}{1-1/10}=1
 $$Hence equality should hold everywhere.
-In particular, $|a_k-b_k|=9$ for $k \ge n+1$. This leaves the two possibilities $(a_k, b_k)=(0,9) or (9,0).$
+In particular, $|a_k-b_k|=9$ for $k \ge n+1$. This leaves $(a_k, b_k)=(0,9) \vee (9,0)$. If the first alternative holds for all $k\ge n+1$, the expansion $0. a_1 a_2\cdots$ would be terminating, contradiction. Similarly, the second alternative cannot hold for all $k\ge n+1$. Thus there exist $k, l \ge n+1$ such that $a_k-b_k>0 \wedge a_l-b_l<0$. But then the triangle inequality cannot hold with equality, so this is the final contradiction.
+All above shows that the non-terminating decimal expansion of $a \in (0,1]$ is unique.
