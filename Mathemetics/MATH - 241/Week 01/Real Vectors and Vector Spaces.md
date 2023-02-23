@@ -43,11 +43,11 @@ $$
 
 If $\textbf a = <a_1, a_2, \cdots, a_n>,\space \textbf b = <b_1, b_2,\cdots, b_n>,\space \textbf a,\textbf b\in\mathbb{R}^n$, then the **cross product** is given by 
 $$
- \begin{vmatrix}
+ \left | \begin{array}{ccc}
  \textbf{i} & \textbf{j} & \cdots \\
  a_1 & a_2 & \cdots \\
  b_1 & b_2 & \cdots 
- \end{vmatrix}
+ \end{array} \right |
 $$
 # Determinant
 ## Definition
