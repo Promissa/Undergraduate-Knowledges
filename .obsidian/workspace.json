@@ -11,8 +11,12 @@
             "id": "2e96b851839b2145",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Retoric/RHET - 102/Week 02.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Retoric/RHET - 102/Week 02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Retoric/RHET - 102/Week 02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Retoric/RHET - 102/Week 02.md"
+              }
             }
           },
           {
@@ -157,7 +165,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2e96b851839b2145",
+  "active": "a6d4ec449e1809d2",
   "lastOpenFiles": [
     "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
     "_attachments/field.md",
