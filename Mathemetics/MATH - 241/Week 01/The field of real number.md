@@ -26,5 +26,5 @@ $$
 $$
 ## Decimal Expansion
 ### Lemma
-Every real number $a\in (0,1]$ has a unique non-terminating decimal expansion $$ a=\sum_{k=1}^{\inf}a_k 10^{-k} $$
-for infinitely many $k$ ; cf. subsequent lemma. 
+Every real number $a\in (0,1]$ has a unique non-terminating decimal expansion $$ a=\sum_{k=1}^{\infty}a_k 10^{-k} $$with $a_k \in \{0,1,\cdots, 9\}$ for all $k$ and $a_k\ne 0$ for infinitely many $k$ 
+For $a$ that $10^k a \in\mathbb Z \wedge 10^{k-1} a \notin \mathbb Z$, the non-terminating expan
