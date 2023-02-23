@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md"
+              }
             }
           },
           {
@@ -186,11 +190,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a6d4ec449e1809d2",
+  "active": "f4c6dba27bc3c05a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
     "Mathemetics/MATH - 241/Week 01/The field of real number.md",
-    "conflict-files-obsidian-git.md",
     "Computer Engineering/ECE - 120/Week 01/Git Tutorial.md",
     "Retoric/RHET - 102/Notes/Week 02.md",
     "Retoric/RHET - 102/Notes/Week 01.md",
