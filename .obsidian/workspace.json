@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 202.5
   },
   "right": {
     "id": "73f98ab0e3cb12ee",
@@ -159,11 +159,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 288.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,12 +178,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c02832fd05ca9566",
+  "active": "73f75fe5a6effea4",
   "lastOpenFiles": [
+    "Retoric/RHET - 102/Notes/Week 01.md",
+    "TOEFL/口语C/Syllabus.md",
     "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
     "Mathemetics/MATH - 241/Week 01/The field of real number.md",
-    "TOEFL/口语C/Syllabus.md",
-    "Retoric/RHET - 102/Notes/Week 01.md",
     "TOEFL/口语C",
     "TOEFL",
     "Academic English/ENGL - 1001/Mathmetic.md",
