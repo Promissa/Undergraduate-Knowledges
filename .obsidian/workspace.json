@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic English/ENGL - 1001/Mathmetic.md",
+                "file": "Retoric/RHET - 102/Notes/Week 01.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5,
-    "collapsed": true
+    "width": 211.5
   },
   "right": {
     "id": "73f98ab0e3cb12ee",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic English/ENGL - 1001/Mathmetic.md",
+                "file": "Retoric/RHET - 102/Notes/Week 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic English/ENGL - 1001/Mathmetic.md",
+                "file": "Retoric/RHET - 102/Notes/Week 01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic English/ENGL - 1001/Mathmetic.md"
+                "file": "Retoric/RHET - 102/Notes/Week 01.md"
               }
             }
           },
@@ -166,8 +165,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a6d4ec449e1809d2",
+  "active": "2e96b851839b2145",
   "lastOpenFiles": [
+    "Academic English/ENGL - 1001/Mathmetic.md",
     "Academic English/ENGL - 1002",
     "Academic English/ENGL - 1001/ENGL1001 - LE10.md",
     "Mathemetics/MATH - 241/Week 01/The field of real number.md",
