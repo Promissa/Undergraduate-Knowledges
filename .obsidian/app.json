@@ -6,5 +6,9 @@
   "trashOption": "local",
   "alwaysUpdateLinks": true,
   "newFileFolderPath": "_Attachments",
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "spellcheck": false,
+  "spellcheckLanguages": [
+    "en-US"
+  ]
 }
