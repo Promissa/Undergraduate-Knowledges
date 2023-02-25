@@ -13,5 +13,9 @@
 - Core term: `cognitive dissonance`
 ### Reading Note-taking and expressing
 1. 定位标题术语(term)在文章出现的位置（第一次），找包含术语的句子
-2. 如果包含术语（term）那句话含有定义提示词如：is refferred to / is known as / is called / refers to 并且有完整的解释，就是定义句
-3. ti'shi'ju'zhong
+2. 如果包含术语（term）那句话含有定义提示词如：`is refferred to` / `is known as` /` is called` /` refers to` 并且有完整的解释，就是定义句
+3. 提示句中如果含有代词如`this`（`these`等）的时候，基本上前一句就是定义句
+4. 如果没有代词提示，术语后面一句可能就是定义句
+5. 术语前面有`through`或者`by`等表示方式的连接词，需要关注后一句
+### Example 2
+	Sociobiologists believe that some communicative behavior in animals is developed through a process called ritualization. In this process, the purpose of a given behavior changes overtime - a behavior that originally had a practical purpose develops into one that communicates a specific message. For example, a certain movement or physical eature might evolve to serve as a signal or a warning that other animals will understand. Once a behavior is ritualized, it becomes a form of communication; therefore, if an animal engages in this behavior, other animals will
