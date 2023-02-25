@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "addafe12f7cccbd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOEFL/Syllabus.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retoric/RHET - 102/Notes/Week 01.md",
+                "file": "TOEFL/Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retoric/RHET - 102/Notes/Week 01.md",
+                "file": "TOEFL/Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retoric/RHET - 102/Notes/Week 01.md"
+                "file": "TOEFL/Syllabus.md"
               }
             }
           },
@@ -146,12 +159,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 288.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,8 +177,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a6d4ec449e1809d2",
+  "active": "addafe12f7cccbd5",
   "lastOpenFiles": [
+    "Retoric/RHET - 102/Notes/Week 01.md",
+    "TOEFL/Syllabus.md",
     "TOEFL/口语C",
     "TOEFL",
     "Academic English/ENGL - 1001/Mathmetic.md",
@@ -177,7 +191,6 @@
     "Academic English/ENGL - 1002/Pre - 1.md",
     "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
     "Retoric/RHET - 102/Writing Project/Writing Project 1.md",
-    "Retoric/RHET - 102/Notes/Week 01.md",
     "Retoric/RHET - 102/Critical Response/Critical Response 1.md",
     "Retoric/RHET - 102/Notes/Week 02.md",
     "Retoric/RHET - 102/Notes",
