@@ -18,4 +18,10 @@
 4. 如果没有代词提示，术语后面一句可能就是定义句
 5. 术语前面有`through`或者`by`等表示方式的连接词，需要关注后一句
 ### Example 2
-	Sociobiologists believe that some communicative behavior in animals is developed through a process called ritualization. In this process, the purpose of a given behavior changes overtime - a behavior that originally had a practical purpose develops into one that communicates a specific message. For example, a certain movement or physical eature might evolve to serve as a signal or a warning that other animals will understand. Once a behavior is ritualized, it becomes a form of communication; therefore, if an animal engages in this behavior, other animals will
+	Sociobiologists believe that some communicative behavior in animals is developed through a process called ritualization. In this process, the purpose of a given behavior changes overtime - a behavior that originally had a practical purpose develops into one that communicates a specific message. For example, a certain movement or physical eature might evolve to serve as a signal or a warning that other animals will understand. Once a behavior is ritualized, it becomes a form of communication; therefore, if an animal engages in this behavior, other animals will be able to interpret the meaning of the behavior quickly and respond appropriately.
+- Core term: `Ritualization`
+- One-sentence Summary: Ritualization is a process that
+### Example 3
+		Many animals live in environments where food is plentiful durin  certain times of the year and scarce during other times of the year. I
+- scarce plentiful scatter(divide it and hide) 
+- scatter hoarding
