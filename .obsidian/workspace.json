@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retoric/RHET - 102/Notes/Week 01.md",
+                "file": "Rhetoric/RHET - 102/Notes/Week 01.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c03f3812dc3d71b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOEFL/口语C/Task 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOEFL/口语C/Syllabus.md",
+                "file": "TOEFL/口语C/Task 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOEFL/口语C/Syllabus.md",
+                "file": "TOEFL/口语C/Task 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOEFL/口语C/Syllabus.md"
+                "file": "TOEFL/口语C/Task 3.md"
               }
             }
           },
@@ -178,10 +190,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "73f75fe5a6effea4",
+  "active": "a6d4ec449e1809d2",
   "lastOpenFiles": [
-    "Retoric/RHET - 102/Notes/Week 01.md",
     "TOEFL/口语C/Syllabus.md",
+    "TOEFL/口语C/Task 3.md",
+    "_reverseLinks/path.md",
+    "Rhetoric/RHET - 102/Notes/Week 01.md",
     "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
     "Mathemetics/MATH - 241/Week 01/The field of real number.md",
     "TOEFL/口语C",
@@ -191,18 +205,18 @@
     "Academic English/ENGL - 1001/ENGL1001 - LE10.md",
     "未命名.canvas",
     "Academic English/ENGL - 1002/Pre - 1.md",
-    "Retoric/RHET - 102/Writing Project/Writing Project 1.md",
-    "Retoric/RHET - 102/Critical Response/Critical Response 1.md",
-    "Retoric/RHET - 102/Notes/Week 02.md",
-    "Retoric/RHET - 102/Notes",
-    "Retoric/RHET - 102/Writing Project",
-    "Retoric/RHET - 102/Critical Response",
-    "_attachments/field.md",
+    "Rhetoric/RHET - 102/Writing Project/Writing Project 1.md",
+    "Rhetoric/RHET - 102/Critical Response/Critical Response 1.md",
+    "Rhetoric/RHET - 102/Notes/Week 02.md",
+    "Rhetoric/RHET - 102/Notes",
+    "Rhetoric/RHET - 102/Writing Project",
+    "Rhetoric/RHET - 102/Critical Response",
+    "_reverseLinks/field.md",
     "conflict-files-obsidian-git.md",
     "Computer Engineering/ECE - 120/Week 01/Git Tutorial.md",
     "Computer Engineering/ECE - 120/ECE120 Notes for Students.pdf",
     "Mathemetics/MATH - 231/Typical Problems.md",
-    "Retoric/RHET - 101/Assignment 01/Week 02/CR - 2.md",
+    "Rhetoric/RHET - 101/Assignment 01/Week 02/CR - 2.md",
     "Computer Engineering/ECE - 120/Week 01/Linux Command Line Interface.md"
   ]
 }
