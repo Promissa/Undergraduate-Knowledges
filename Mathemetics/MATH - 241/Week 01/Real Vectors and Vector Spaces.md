@@ -11,7 +11,7 @@ For  $\textbf u = (u_1,u_2,\cdots,u_n), \space \textbf v=(v_1,v_2,\cdots,v_n) \i
 For $\textbf v = (v_1,v_2,\cdots,v_n)\in\mathbb{R}^n$ and $c\in\mathbb{R}$ we define $c\textbf v\in\mathbb{R}^n$ by $$\large c\textbf v = (c v_1, c v_2, \cdots, c v_n)$$
 # The Dot Product
 ## Definition
-If $\textbf a = <a_1, a_2, \cdots, a_n>,\space \textbf b = <b_1, b_2,\cdots, b_n>,\space \textbf a,\textbf b\in\mathbb{R}^n$, then the **dot product** is given by $$
+If $\textbf a = \langle a_1, a_2, \cdots, a_n \rangle,\space \textbf b = \langle b_1, b_2,\cdots, b_n \rangle,\space \textbf a,\textbf b\in\mathbb{R}^n$, then the **dot product** is given by $$
 \large \textbf a \cdot \textbf b=a_1b_1+a_2b_2+\cdots+a_nb_n=\sum_{i=1}^{n}a_ib_i
 $$
 ## Projection
