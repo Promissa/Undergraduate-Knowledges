@@ -8,51 +8,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e96b851839b2145",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rhetoric/RHET - 102/Notes/Week 01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "addafe12f7cccbd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TOEFL/口语C/Syllabus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c03f3812dc3d71b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Rhetoric/RHET - 102/Writing Project/Writing Project 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Computer Engineering/ECE - 120/Lumetta's Notes.pdf"
               }
             }
           },
           {
-            "id": "5d56c398b94f0c40",
+            "id": "7a6f2416125a6564",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Engineering/ECE - 120/Lumetta's Notes.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Engineering/ECE - 120/Lumetta's Notes.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Engineering/ECE - 120/Lumetta's Notes.pdf"
+              }
             }
           },
           {
@@ -194,16 +175,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5d56c398b94f0c40",
+  "active": "a6d4ec449e1809d2",
   "lastOpenFiles": [
+    "Computer Engineering/ECE - 120/ECE120 Notes for Students.pdf",
+    "Computer Engineering/ECE - 120/Lumetta's Notes.pdf",
+    "Computer Engineering/ECE - 120/Concepts/Majority Function.md",
+    "_attachments/Pasted image 20230303014120.png",
+    "TOEFL/口语C/Syllabus.md",
     "Rhetoric/RHET - 102/Writing Project/Writing Project 1.md",
-    "Rhetoric/RHET - 102/Toulmin Analysis.md",
-    "Toulmin.md",
+    "_attachments/Pasted image 20230303013932.png",
+    "_attachments/Pasted image 20230303014015.png",
     "Rhetoric/RHET - 102/Notes/Week 01.md",
     "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
+    "Computer Engineering/ECE - 120/Concepts",
+    "Rhetoric/RHET - 102/Toulmin Analysis.md",
+    "Toulmin.md",
     "TOEFL/口语C/Task 3.md",
     "Mathemetics/MATH - 241/Week 01/The field of real number.md",
-    "TOEFL/口语C/Syllabus.md",
     "_reverseLinks/path.md",
     "TOEFL/口语C",
     "TOEFL",
@@ -220,7 +208,6 @@
     "_reverseLinks/field.md",
     "conflict-files-obsidian-git.md",
     "Computer Engineering/ECE - 120/Week 01/Git Tutorial.md",
-    "Computer Engineering/ECE - 120/ECE120 Notes for Students.pdf",
     "Mathemetics/MATH - 231/Typical Problems.md",
     "Rhetoric/RHET - 101/Assignment 01/Week 02/CR - 2.md",
     "Computer Engineering/ECE - 120/Week 01/Linux Command Line Interface.md"
