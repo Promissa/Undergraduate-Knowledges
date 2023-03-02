@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
+                "file": "Rhetoric/RHET - 102/Writing Project/Writing Project 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d56c398b94f0c40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rhetoric/RHET - 102/Notes/Week 01.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
+                "file": "Rhetoric/RHET - 102/Notes/Week 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
+                "file": "Rhetoric/RHET - 102/Notes/Week 01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md"
+                "file": "Rhetoric/RHET - 102/Notes/Week 01.md"
               }
             }
           },
@@ -190,14 +202,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c03f3812dc3d71b1",
+  "active": "5d56c398b94f0c40",
   "lastOpenFiles": [
+    "Rhetoric/RHET - 102/Writing Project/Writing Project 1.md",
+    "Rhetoric/RHET - 102/Notes/Week 01.md",
+    "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
     "TOEFL/口语C/Task 3.md",
     "Mathemetics/MATH - 241/Week 01/The field of real number.md",
-    "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
     "TOEFL/口语C/Syllabus.md",
     "_reverseLinks/path.md",
-    "Rhetoric/RHET - 102/Notes/Week 01.md",
     "TOEFL/口语C",
     "TOEFL",
     "Academic English/ENGL - 1001/Mathmetic.md",
@@ -205,7 +218,6 @@
     "Academic English/ENGL - 1001/ENGL1001 - LE10.md",
     "未命名.canvas",
     "Academic English/ENGL - 1002/Pre - 1.md",
-    "Rhetoric/RHET - 102/Writing Project/Writing Project 1.md",
     "Rhetoric/RHET - 102/Critical Response/Critical Response 1.md",
     "Rhetoric/RHET - 102/Notes/Week 02.md",
     "Rhetoric/RHET - 102/Notes",
