@@ -1,11 +1,11 @@
 {
   "newFileLocation": "folder",
-  "attachmentFolderPath": "_Attachments",
+  "attachmentFolderPath": "_attachments",
   "autoPairMarkdown": true,
   "promptDelete": false,
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "newFileFolderPath": "_Attachments",
+  "newFileFolderPath": "_reverseLinks",
   "strictLineBreaks": true,
   "spellcheck": false,
   "spellcheckLanguages": [
