@@ -11,9 +11,11 @@
             "id": "c03f3812dc3d71b1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Computer Engineering/ECE - 120/Lumetta's Notes.pdf"
+                "file": "Rhetoric/RHET - 102/Toulmin Analysis.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Engineering/ECE - 120/Lumetta's Notes.pdf",
+                "file": "Rhetoric/RHET - 102/Toulmin Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Engineering/ECE - 120/Lumetta's Notes.pdf",
+                "file": "Rhetoric/RHET - 102/Toulmin Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Engineering/ECE - 120/Lumetta's Notes.pdf"
+                "file": "Rhetoric/RHET - 102/Toulmin Analysis.md"
               }
             }
           },
@@ -175,10 +177,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a6d4ec449e1809d2",
+  "active": "c03f3812dc3d71b1",
   "lastOpenFiles": [
-    "Computer Engineering/ECE - 120/ECE120 Notes for Students.pdf",
     "Computer Engineering/ECE - 120/Lumetta's Notes.pdf",
+    "Computer Engineering/ECE - 120/ECE120 Notes for Students.pdf",
     "Computer Engineering/ECE - 120/Concepts/Majority Function.md",
     "_attachments/Pasted image 20230303014120.png",
     "TOEFL/口语C/Syllabus.md",
