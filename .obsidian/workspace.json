@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rhetoric/RHET - 102/Toulmin Analysis.md",
+                "file": "TOEFL/Speaking C/Syllabus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "269461835043bb72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOEFL/Writing C/Week 01.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rhetoric/RHET - 102/Toulmin Analysis.md",
+                "file": "TOEFL/Writing C/Week 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rhetoric/RHET - 102/Toulmin Analysis.md",
+                "file": "TOEFL/Writing C/Week 01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rhetoric/RHET - 102/Toulmin Analysis.md"
+                "file": "TOEFL/Writing C/Week 01.md"
               }
             }
           },
@@ -177,25 +190,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c03f3812dc3d71b1",
+  "active": "269461835043bb72",
   "lastOpenFiles": [
+    "TOEFL/Speaking C/Syllabus.md",
+    "TOEFL/Writing C/Week 01.md",
+    "TOEFL/Writing C",
+    "TOEFL/Speaking C/Task 3.md",
+    "Rhetoric/RHET - 102/Toulmin Analysis.md",
     "Computer Engineering/ECE - 120/Lumetta's Notes.pdf",
     "Computer Engineering/ECE - 120/ECE120 Notes for Students.pdf",
     "Computer Engineering/ECE - 120/Concepts/Majority Function.md",
     "_attachments/Pasted image 20230303014120.png",
-    "TOEFL/口语C/Syllabus.md",
     "Rhetoric/RHET - 102/Writing Project/Writing Project 1.md",
     "_attachments/Pasted image 20230303013932.png",
     "_attachments/Pasted image 20230303014015.png",
     "Rhetoric/RHET - 102/Notes/Week 01.md",
     "Mathemetics/MATH - 241/Week 01/Real Vectors and Vector Spaces.md",
     "Computer Engineering/ECE - 120/Concepts",
-    "Rhetoric/RHET - 102/Toulmin Analysis.md",
     "Toulmin.md",
-    "TOEFL/口语C/Task 3.md",
     "Mathemetics/MATH - 241/Week 01/The field of real number.md",
     "_reverseLinks/path.md",
-    "TOEFL/口语C",
+    "TOEFL/Speaking C",
     "TOEFL",
     "Academic English/ENGL - 1001/Mathmetic.md",
     "Academic English/ENGL - 1002",
