@@ -46,6 +46,8 @@ Spiritus:
 	Secondly, whereas the author believes that the broches could be used for storing foods, as the broches seemed to be quite suitable to restore the overwhelming crops at that time due to the increasing agriculture production. However, the lecturer points out several details that was missing in this case. He argues that the water tanks and the fireplaces found in the broches proved it wrong. The former ones could produce moisture that could easily corrupt the crops, while the latter ones will easily trigger fire or even explosion with the dust from the grain.
 	Lastly, the author claims that the broches might be used for social purpose. He believes that the broches could be served for high chieftains' inhabitat due to its elaborate structure. However, the lecturer has different point of view. He first listed that the habitat for chieftains are typically surrounded by small houses clustering together, which is in conflict with the seperated broches. Moreover, the broches found seemed to be closed with each other, which is quite improper for a chief's habitat. 
 
-# Writing 2
+crops - Water recycle, fresh o2
+0g - several techniques from astronauts - calcium input
+solar radiation - not reach dangerous level, dangerous occasionaly - special instruments/small shield area
 
 
